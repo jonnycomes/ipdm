@@ -4,7 +4,7 @@
   <!-- we first include a file which contains the docinfo element: -->
   <xi:include href="./docinfo.ptx" />
 
-  <book xml:id="my-great-book">
+  <book xml:id="ipdm-book">
     <title>An Introduction to Proofs and Discrete Mathematics</title>
     <subtitle>Notes for MAT-252</subtitle>
 
@@ -12,7 +12,7 @@
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
+    <xi:include href="./ch-preliminaries.ptx" />
 
 
     <!-- Include backmatter -->
