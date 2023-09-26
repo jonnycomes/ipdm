@@ -16,7 +16,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Sets: Conventions and Notation",
-  "body": " Sets: Conventions and Notation  We take a set to be a primitive notion. In other words, we will not attempt to give a formal definition of a set It turns out that formally defining a set is really difficult! . We will simply say that a set is a collection of elements . Given a set , we write to mean that is an element of . We write to means that is not an element of .  Some sets of numbers are denoted with special notation. For example, we write for the set of all real numbers For a formal definition of a real number, take a course on Real Analysis! . We write for the set of all natural numbers . In other words, in this class we define Thus and , but , and  Note that we are choosing not to include 0 as a natural number. This choice is not agreed upon by all mathematicians. .  An integer is a number that is either a natural number, the negative of a natural number, or zero. We denote the set of all integers by . In other words, Hence, , , , , but .  A rational number is a real number that can be written in the form with and . We write for the set of all rational numbers. For example, and . We also have and since and . It turns out that there are irrational numbers too: , , and . However, proving a number is irrational requires proof (see Example ???).  "
+  "body": " Sets: Conventions and Notation  We take a set to be a primitive notion. In other words, we will not attempt to give a formal definition of a set It turns out that formally defining a set is really difficult! . We will simply say that a set is an unorderded collection of distinct elements . Given a set , we write to mean that is an element of . We write to means that is not an element of .  Sometimes a set can be described by merely listing its elements. When this is the case, we will wrap curly brackets around the list of elements to denote the set. For example, denotes the set whose elements are exactly and . For another example, if then but .  It is important to note that a set does not contain duplicate elements, and elements in a set are not equipped with an order. For example, .  "
+},
+{
+  "id": "sec-number-sets",
+  "level": "1",
+  "url": "sec-number-sets.html",
+  "type": "Section",
+  "number": "1.2",
+  "title": "Number Sets",
+  "body": " Number Sets  Some sets of numbers are denoted with special notation. For example, we write for the set of all real numbers For a formal definition of a real number, take a course on Real Analysis! . We write for the set of all natural numbers . In other words, in this class we define Thus and , but , and  Note that we are choosing not to include 0 as a natural number. This choice is not agreed upon by all mathematicians. .  An integer is a number that is either a natural number, the negative of a natural number, or zero. We denote the set of all integers by . In other words, Hence, , , , , but .  A rational number is a real number that can be written in the form with and . We write for the set of all rational numbers. For example, and . We also have and since and . It turns out that there are irrational numbers too: , , and . However, proving a number is irrational requires proof (see Example ???).  "
 },
 {
   "id": "colophon-2",
