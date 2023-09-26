@@ -6,9 +6,9 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <titlepage>
     <author>
-      <personname>You</personname>
-      <department>Your department</department>
-      <institution>Your institution</institution>
+      <personname>Jonathan Comes</personname>
+      <department>Department of Mathematics and Physical Sciences</department>
+      <institution>The College of Idaho</institution>
     </author>
     <date>
       <today />
