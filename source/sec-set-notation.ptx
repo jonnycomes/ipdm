@@ -3,31 +3,30 @@
 <section xml:id="sec-set-notation" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Sets: Conventions and Notation</title>
 
-  <!-- <p>We take a set to be a primitive notion. 
-  In other words, we will not attempt to give a formal definition of a set<footnote>It turns out that formally defining a set is really difficult!</footnote>. 
+  <p>We take a set to be a primitive notion. 
+  In other words, we will not attempt to give a formal definition of a set<fn>It turns out that formally defining a set is really difficult!</fn>. 
   We will simply say that a <em>set</em> is a collection of <em>elements</em>. 
   Given a set <m>S</m>, we write <m>x\in S</m> to mean that <em><m>x</m> is an element of <m>S</m></em>. 
   We write <m>x\not\in S</m> to means that <em><m>x</m> is not an element of <m>S</m></em>.
-  </p> -->
+  </p>
 
-  <!-- <p>Some sets of numbers are denoted with special notation. For example, we write <m>\mathbbm{R}</m> for the <em>set of all real numbers</em><footnote>For a formal definition of a real number, take a course on Real Analysis!</footnote>. 
-  We write <m>\mathbbm{N}</m> for the <em>set of all natural numbers</em>. 
+  <p>Some sets of numbers are denoted with special notation. For example, we write <m>\mathbb{R}</m> for the <em>set of all real numbers</em><fn>For a formal definition of a real number, take a course on Real Analysis!</fn>. 
+  We write <m>\mathbb{N}</m> for the <em>set of all natural numbers</em>. 
   In other words, in this class we define
-  <me>\mathbbm{N}=\{1,2,3,4,5,\ldots\}.</me>
-  <aside>Note that we are choosing not to include 0 as a natural number. 
-  This choice is not agreed upon by all mathematicians.</aside>
-  <m>-3\not\in\mathbbm{N}</m>, and <m>0.3\not\in\mathbbm{N}</m>. 
+  <me>\mathbb{N}=\{1,2,3,4,5,\ldots\}.</me>
+  Thus <m>2\in\mathbb{N}</m> and <m>1423\in\mathbb{N}</m>, but <m>-3\not\in\mathbb{N}</m>, <m>0.3\not\in\mathbb{N}</m> and <m>0\not\in\mathbb{N}</m> <fn>Note that we are choosing not to include 0 as a natural number. 
+    This choice is not agreed upon by all mathematicians.</fn>. 
   </p>
 
-  <p>An <em>integer</em> is a number that is either a natural number, the negative of a natural number, or zero. We denote the set of all integers by <m>\mathbbm{Z}</m>. In other words,
-  <me>\mathbbm{Z}=\{\ldots,-4,-3,-2,-1,0,1,2,3,4,\ldots\}.</me>
-  Hence, <m>5\in\mathbbm{Z}</m>, <m>101\in\mathbbm{Z}</m>, <m>0\in\mathbbm{Z}</m>, <m>-3\in\mathbbm{Z}</m>, but <m>0.3\not\in\mathbbm{Z}</m>.
+  <p>An <em>integer</em> is a number that is either a natural number, the negative of a natural number, or zero. We denote the set of all integers by <m>\mathbb{Z}</m>. In other words,
+  <me>\mathbb{Z}=\{\ldots,-4,-3,-2,-1,0,1,2,3,4,\ldots\}.</me>
+  Hence, <m>5\in\mathbb{Z}</m>, <m>101\in\mathbb{Z}</m>, <m>0\in\mathbb{Z}</m>, <m>-3\in\mathbb{Z}</m>, but <m>0.3\not\in\mathbb{Z}</m>.
   </p>
 
-  <p>A <em>rational number</em> is a real number that can be written in the form <m>\frac{a}{b}</m> with <m>a\in\mathbbm{Z}</m> and <m>b\in\mathbbm{N}</m>. 
-  We write <m>\mathbbm{Q}</m> for the set of all rational numbers. For example, <m>\frac{1}{2}\in\mathbbm{Q}</m> and <m>\frac{5}{3}\in\mathbbm{Q}</m>. 
-  We also have <m>4\in\mathbbm{Q}</m> and <m>-14\in\mathbbm{Q}</m> since <m>4=\frac{4}{1}</m> and <m>-14=\frac{-14}{1}</m>. 
-  It turns out that there are irrational numbers too: <m>\pi\not\in\mathbbm{Q}</m>, <m>e\not\in\mathbbm{Q}</m>, and <m>\sqrt{2}\not\in\mathbbm{Q}</m>. 
-  However, proving a number is irrational requires proof (see Example ???). </p>
-  </p> -->
+  <p>A <em>rational number</em> is a real number that can be written in the form <m>\frac{a}{b}</m> with <m>a\in\mathbb{Z}</m> and <m>b\in\mathbb{N}</m>. 
+  We write <m>\mathbb{Q}</m> for the set of all rational numbers. For example, <m>\frac{1}{2}\in\mathbb{Q}</m> and <m>\frac{5}{3}\in\mathbb{Q}</m>. 
+  We also have <m>4\in\mathbb{Q}</m> and <m>-14\in\mathbb{Q}</m> since <m>4=\frac{4}{1}</m> and <m>-14=\frac{-14}{1}</m>. 
+  It turns out that there are irrational numbers too: <m>\pi\not\in\mathbb{Q}</m>, <m>e\not\in\mathbb{Q}</m>, and <m>\sqrt{2}\not\in\mathbb{Q}</m>. 
+  However, proving a number is irrational requires proof (see Example ???). 
+  </p>
 </section>
