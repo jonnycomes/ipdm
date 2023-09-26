@@ -28,6 +28,51 @@ var ptx_lunr_docs = [
   "body": " Number Sets  Some sets of numbers are denoted with special notation. For example, we write for the set of all real numbers For a formal definition of a real number, take a course on Real Analysis! . We write for the set of all natural numbers . In other words, in this class we define Thus and , but , and  Note that we are choosing not to include 0 as a natural number. This choice is not agreed upon by all mathematicians. .  An integer is a number that is either a natural number, the negative of a natural number, or zero. We denote the set of all integers by . In other words, Hence, , , , , but .  A rational number is a real number that can be written in the form with and . We write for the set of all rational numbers. For example, and . We also have and since and . It turns out that there are irrational numbers too: , , and . However, proving a number is irrational requires proof (see Example ???).  "
 },
 {
+  "id": "ch-proof-techniques",
+  "level": "1",
+  "url": "ch-proof-techniques.html",
+  "type": "Chapter",
+  "number": "2",
+  "title": "Proof Techniques",
+  "body": " Proof Techniques   Text before the first section.           "
+},
+{
+  "id": "ch-graph-theory",
+  "level": "1",
+  "url": "ch-graph-theory.html",
+  "type": "Chapter",
+  "number": "3",
+  "title": "Graph Theory",
+  "body": " Graph Theory   Text before the first section.     "
+},
+{
+  "id": "ch-set-theory",
+  "level": "1",
+  "url": "ch-set-theory.html",
+  "type": "Chapter",
+  "number": "4",
+  "title": "Basic Set Theory",
+  "body": " Basic Set Theory   Text before the first section.     "
+},
+{
+  "id": "ch-functions",
+  "level": "1",
+  "url": "ch-functions.html",
+  "type": "Chapter",
+  "number": "5",
+  "title": "Functions",
+  "body": " Functions   Text before the first section.     "
+},
+{
+  "id": "ch-sequences",
+  "level": "1",
+  "url": "ch-sequences.html",
+  "type": "Chapter",
+  "number": "6",
+  "title": "Sequences",
+  "body": " Sequences   Text before the first section.     "
+},
+{
   "id": "colophon-2",
   "level": "1",
   "url": "colophon-2.html",
