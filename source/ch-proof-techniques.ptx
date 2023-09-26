@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-proof-techniques" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Proof Techniques</title>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <!-- <xi:include href="sec-statments.ptx" /> -->
+  <!-- <xi:include href="sec-compound-statements.ptx" /> -->
+  <!-- <xi:include href="sec-truth-tables.ptx" /> -->
+  <!-- <xi:include href="sec-direct-proofs.ptx" /> -->
+  <!-- <xi:include href="sec-contrapositive.ptx" /> -->
+  <!-- <xi:include href="sec-contradiction.ptx" /> -->
+  <!-- <xi:include href="sec-induction.ptx" /> -->
+
+</chapter>

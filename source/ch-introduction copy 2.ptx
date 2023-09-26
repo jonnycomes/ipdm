@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-set-theory" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Basic Set Theory</title>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <!-- <xi:include href="sec-set-builder-notation.ptx" />
+  <xi:include href="sec-sets-subsets-equality.ptx" />
+  <xi:include href="sec-sets-element-chasing.ptx" />
+  <xi:include href="sec-sets-intersections-unions.ptx" />
+  <xi:include href="sec-sets-compliments.ptx" />
+  <xi:include href="sec-sets-products.ptx" /> -->
+
+</chapter>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-graph-theory" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Graph Theory</title>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <!-- <xi:include href="sec-first-graphs.ptx" />
+  <xi:include href="sec-graph-isos.ptx" />
+  <xi:include href="sec-cycles.ptx" />
+  <xi:include href="sec-complete-graphs.ptx" />
+  <xi:include href="sec-trees.ptx" />
+  <xi:include href="sec-bipartite-graphs.ptx" />
+  <xi:include href="sec-planar-graphs.ptx" />
+  <xi:include href="sec-vertex-coloring.ptx" />
+  <xi:include href="sec-edge-coloring.ptx" />
+  <xi:include href="sec-euler-paths.ptx" />
+  <xi:include href="sec-hamiltonian-graphs.ptx" />
+  <xi:include href="sec-matchings.ptx" /> -->
+
+</chapter>

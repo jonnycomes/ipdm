@@ -13,6 +13,10 @@
 
     <!-- Include chapters -->
     <xi:include href="./ch-introduction.ptx" />
+    <xi:include href="./ch-proof-techniques.ptx" />
+    <xi:include href="./ch-graph-theory.ptx" />
+    <xi:include href="./ch-set-theory.ptx" />
+    <xi:include href="./ch-sequences.ptx" />
 
 
     <!-- Include backmatter -->
