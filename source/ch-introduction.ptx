@@ -9,5 +9,6 @@
 
   <!-- include sections -->
   <xi:include href="sec-set-notation.ptx" />
+  <xi:include href="sec-number-sets.ptx" />
 
 </chapter>
