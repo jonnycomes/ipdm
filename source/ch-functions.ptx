@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-functions" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Functions</title>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <!-- <xi:include href="sec-functions-defn.ptx" />
+  <xi:include href="sec-functions-injections.ptx" />
+  <xi:include href="sec-functions-sujections.ptx" />
+  <xi:include href="sec-functions-bijections.ptx" />
+  -->
+
+</chapter>

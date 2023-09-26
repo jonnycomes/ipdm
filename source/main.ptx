@@ -16,6 +16,7 @@
     <xi:include href="./ch-proof-techniques.ptx" />
     <xi:include href="./ch-graph-theory.ptx" />
     <xi:include href="./ch-set-theory.ptx" />
+    <xi:include href="./ch-functions.ptx" />
     <xi:include href="./ch-sequences.ptx" />
 
 
