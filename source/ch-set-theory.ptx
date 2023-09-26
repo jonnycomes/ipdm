@@ -12,6 +12,7 @@
   <xi:include href="sec-sets-subsets-equality.ptx" />
   <xi:include href="sec-sets-element-chasing.ptx" />
   <xi:include href="sec-sets-intersections-unions.ptx" />
+  <xi:include href="sec-sets-disjoint-unions.ptx" />
   <xi:include href="sec-sets-compliments.ptx" />
   <xi:include href="sec-sets-products.ptx" /> -->
 
